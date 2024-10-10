@@ -1,6 +1,1 @@
-nginx:1.18.0
-bitnami/kafka:3.7.0
-influxdb:2.7.0
-jrottenberg/ffmpeg:4.3-ubuntu
-redis:7.2.6
-python:3.8.7
+bitnami/redis:7.4.1
